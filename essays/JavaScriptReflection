@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: "The difficult things will always be difficult"
+# All dates must be YYYY-MM-DD format!
+date: 2024-01-18
+published: true
+labels:
+  - Software Development
+---
+
 JavaScript Reflection
 	JavaScript is a versatile programming language that is primarily used for front-end web development. Some of these front end web applications include: web browsers such as web pages, mobile applications or apps for short, and even simple browser games (ChatGPT, 2024). Because of the unique features in JavaScript, I believe that JavaScript can be beneficial from the software development perspective, particularly in the development of front end applications.  
 
