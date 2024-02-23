@@ -13,7 +13,6 @@ summary: "Passon project, derivative calculator made from Java."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pcbway.com%2Fproject%2Fsponsor%2FMushak_A_half_size_Micromouse_5d8760d0.html&psig=AOvVaw1dQV2A1P3ZXThQSHrNFMlq&ust=1708768916919000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCy_rWawYQDFQAAAAAdAAAAABAE" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
