@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img src="essays/img/GoF.png">
+<img src="essays/GoF.png" alt="Alt text" width="200" height="200">
 
 ## Introduction
 
