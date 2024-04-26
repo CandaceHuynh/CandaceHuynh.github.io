@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The world of Design Patterns?"
+title: "The World of Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
 published: true
@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img src="../img/GoF.png" width="200" height="200"> 
+<img src="../img/GoF.png" width="300"> 
 
 
 ## Introduction
