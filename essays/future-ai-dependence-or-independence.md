@@ -19,6 +19,36 @@ I believe that artificial intelligence has an enormous potential to enhance the 
 I have used AI in class this semester in the following areas:
 
 1. Experience WODs e.g. E18
+Throughout the many required experiences endured for ICS 314, I did not use artificial intelligence to much extent. I found myself watching the screencast and following instructions provided with each experience more than I did use ChatGPT or any other AI primarily because I found the instructions very detailed and clear in what I needed to do. It was very rare that I did find myself seeking assistance from AI for the experiences of this course, and it would most likely be troubleshooting why my program does not work despite following the screencast step by step.
+
+2. In-class Practice WODs
+
+
+3. In-class WODs
+
+
+4. Essays
+
+
+5. Final project
+
+6. Learning a concept / tutorial
+
+7. Answering a question in class or in Discord
+
+8. Asking or answering a smart-question
+
+9. Coding example e.g. “give an example of using Underscore .pluck”
+
+10. Explaining code
+
+11. Writing code
+
+12. Documenting code
+
+13. Quality assurance
+
+14. Other uses in ICS 314 not listed above
 
 Throughout the many required experiences endured for ICS 314, I did not use artificial intelligence to much extent. I found myself watching the screencast and following instructions provided with each experience more than I did use ChatGPT or any other AI primarily because I found the instructions very detailed and clear in what I needed to do. It was very rare that I did find myself seeking assistance from AI for the experiences of this course, and it would most likely be troubleshooting why my program does not work despite following the screencast step by step.
 
