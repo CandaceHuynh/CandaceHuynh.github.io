@@ -10,7 +10,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img src="../img/GoF.png" width="300"> 
+<img src="../img/ChatGPT.jpg" width="300"> 
 
 ### I. Introduction
 I believe that artificial intelligence has an enormous potential to enhance the learning and teaching process in the world of academia. This past semester, I had the chance to experience the assistance of the well-known large language model ChatGPT, in my software engineering class at the University of Hawaii at Manoa. The experience in itself has shown me the abundance of utility that this technology offers from idea generation to the decomposition of complex topics and its potential to go even further.
