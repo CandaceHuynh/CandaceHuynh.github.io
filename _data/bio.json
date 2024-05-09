@@ -15,9 +15,6 @@
   },
   "interests": [
     { "name": "Software Design", "name": "Mathematics", "name": "Data Analysis", "name": "Machine Learning"},
-    { "name": "Mathematics" },
-    { "name": "Data Analysis" },
-    { "name": "Machine Learning" },
   ],
   "skills": [
     {
