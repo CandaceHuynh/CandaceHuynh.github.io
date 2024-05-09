@@ -3,29 +3,30 @@
     "name": "Candace Huynh",
     "label": "Student",
     "picture": "https://github.com/CandaceHuynh.png",
-    "email": "chuynh@hawaii.edu",
+    "email": "chuynh68@hawaii.edu",
     "phone": "(123)456-7890",
     "website": "https://CandaceHuynh.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Hey there! I'm currently an undergraduate student studying computer science at the university of Hawaii at Manoa. My specific interest regarding computer science leans more towards machine learning, data analytics and software development. I expect to graduate in the Spring of 2025, but I also have aspirations to attend graduate school shortly after for any of the topics listed previously.",
+    "location": { "address": "2500 Campus Rd", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Candace Huynh", "url": "http://github.com/CandaceHuynh" },
       { "network": "linkedin", "username": "Candace Huynh", "url": "https://www.linkedin.com/in/candace-huynh-32ab9a283/" },
     ]
   },
   "interests": [
-    { "name": "Software Design" },
+    { "name": "Software Design", "name": "Mathematics", "name": "Data Analysis", "name": "Machine Learning"},
     { "name": "Mathematics" },
+    { "name": "Data Analysis" },
     { "name": "Machine Learning" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", " Java", "Javascript", "HTML", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Linux", "Git/GitHub", "WindowsOS" ]
     }
   ],
   "education": [
@@ -35,76 +36,55 @@
       "studyType": "B.S.",
       "startDate": "2019-08-26",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": [ "Software Enginnering", "Data Science Fundamentals", "Partial Differential Equations I" ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "FCH Enterprises, Zippy's Restaurants",
+      "position": "Floater",
+      "website": "https://www.zippys.com/",
+      "startDate": "2017-05-01",
+      "endDate": "2022-04-22",
+      "summary": "Kitchen Trainer and Baker",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Prepared guest orders in a timely manner all the while adhering to food safety standards",
+        "Baked and decorated pastry goods with attention to detail"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "ABC Stores, Basalt Restaurant",
+      "position": "Server",
+      "website": "https://www.basaltwaikiki.com//",
+      "startDate": "2022-01-05",
+      "endDate": "Present",
+      "summary": "Expeditor and Server",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Tend to the guest's needs during service, describe dishes with an enthusiastic tone appealing to guest",
+        "Manages different stages of dining service efficiently"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "IGNITION, Mckinley High School",
+      "website": "https://www.mckinley.k12.hi.us/",
+      "position": "Mentor",
+      "startDate": "2017-08-26",
+      "endDate": "2018-05-26",
+      "summary": "Served as an upper classman mentor to incoming freshman",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Guided freshman through their first year of highschool",
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Na Hoaloha O Mckinley Edmund Toma Memorial Scholarship",
+      "date": "2019-2020",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Scholarships awarded to athletes that have shown integrity, modesty, and most importantly humanity both on and off the field."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
