@@ -19,10 +19,21 @@ I believe that artificial intelligence has an enormous potential to enhance the 
 I have used AI in class this semester in the following areas:
 
 1. Experience WODs e.g. E18
+
+
 Throughout the many required experiences endured for ICS 314, I did not use artificial intelligence to much extent. I found myself watching the screencast and following instructions provided with each experience more than I did use ChatGPT or any other AI primarily because I found the instructions very detailed and clear in what I needed to do. It was very rare that I did find myself seeking assistance from AI for the experiences of this course, and it would most likely be troubleshooting why my program does not work despite following the screencast step by step.
+
+
 2. In-class Practice WODs
 Although in-class practice WODs do not hold much pressure compared to actual WODs, I did find the use of ChatGPT very helpful in the moments I was stuck on syntax error and program structure complications. The lack of pressure to succeed in these practice WODs allowed me to truly focus on understanding what was really going on and really allocated time to explore how to utilize AI to my full advantage when developing a program.
+
+
+
 3. In-class WODs
+
+
+I can say with full confidence and without shame, that I have used input from ChatGPT for almost all of the in-class WODs. The pressure of the all or nothing grading technique for these in-class WODs prompted me to utilize all of my resources for the best possible chance at succeeding. ChatGPT was really beneficial during the beginning of the semester where our in-class WODs consisted of easy programs or tasks that only required the less demanding nature of plain syntax knowledge. However, as the semester progressed and our WODs became more structurally complicated and intense I found ChatGPT less helpful when compared to actually learning the material myself and implementing my own knowledge strictly because while ChatGPT does a marvelous job at breaking down topics into easily digestible parts, it has trouble piecing together different sub parts of a program into one complete program.
+
 
 4. 
 
