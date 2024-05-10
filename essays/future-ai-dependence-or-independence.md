@@ -20,47 +20,11 @@ I have used AI in class this semester in the following areas:
 
 1. Experience WODs e.g. E18
 
-Throughout the many required experiences endured for ICS 314, I did not use artificial intelligence to much extent. I found myself watching the screencast and following instructions provided with each experience more than I did use ChatGPT or any other AI primarily because I found the instructions very detailed and clear in what I needed to do. It was very rare that I did find myself seeking assistance from AI for the experiences of this course, and it would most likely be troubleshooting why my program does not work despite following the screencast step by step.
+  Throughout the many required experiences endured for ICS 314, I did not use artificial intelligence to much extent. I found myself watching the screencast and following instructions provided with each experience more than I did use ChatGPT or any other AI primarily because I found the instructions very detailed and clear in what I needed to do. It was very rare that I did find myself seeking assistance from AI for the experiences of this course, and it would most likely be troubleshooting why my program does not work despite following the screencast step by step.
 
-2. In-class Practice WODs
+3. In-class Practice WODs
 
 Although in-class practice WODs do not hold much pressure compared to actual WODs, I did find the use of ChatGPT very helpful in the moments I was stuck on syntax error and program structure complications. The lack of pressure to succeed in these practice WODs allowed me to truly focus on understanding what was really going on and really allocated time to explore how to utilize AI to my full advantage when developing a program.
-
-4. In-class WODs
-I can say with full confidence and without shame, that I have used input from ChatGPT for almost all of the in-class WODs. The pressure of the all or nothing grading technique for these in-class WODs prompted me to utilize all of my resources for the best possible chance at succeeding. ChatGPT was really beneficial during the beginning of the semester where our in-class WODs consisted of easy programs or tasks that only required the less demanding nature of plain syntax knowledge. However, as the semester progressed and our WODs became more structurally complicated and intense I found ChatGPT less helpful when compared to actually learning the material myself and implementing my own knowledge strictly because while ChatGPT does a marvelous job at breaking down topics into easily digestible parts, it has trouble piecing together different sub parts of a program into one complete program.
-
-5. Essays
-I believe that one of the many very useful attributes of generative pre-trained transformers is the ability to branch out and generate different ideas from one question or topic. The use of ChatGPT has helped me through the obstacle of writer’s block on countless technical essays, from the generation of related topics to the visual mapping of how all of these topics are similar to one another.
-
-6. Final Project
-During the final project portion of the class I found myself using ChatGPT to troubleshoot a few syntax errors I was experiencing while developing my portion of the program but in particular, error messages that I was not able to comprehend. Unfortunately not all inquiries to AI were fruitful and I had to resort to old school manual testing and troubleshooting. I think the reason why ChatGPT wasn’t as helpful in this situation is because our final project calls for a very structurally complex web application, consisting of many different components and pages to be in sync with one another down to the very path in which these components and details are stored and pulled from one page to another.
-
-7. Learning a concept/tutorial
-Learning a concept or asking ChatGPT for a tutorial on something was very effortless in my opinion. This large language model explained concepts in a way that made it easy to understand, utilizing diction a ten year old might understand as well as providing examples in relation to the topic. I used ChatGPT to explain some concepts outside of the scope of software engineering. Topics such as analogies like what “water under the bridge” and “hindsight is 20/20” meant and to my surprise it helped me fully understand these analogies.
-
-8. Answering a question in class or in Discord
-Although I was never eager to use AI for answering questions presented in class or Discord, in the rare moments that I did, I found it helpful and easy to understand the topic in which the question was asked. For example, in the technical essay regarding design patterns I asked ChatGPT for analogies and examples of applications of the many different design patterns and I was able to gather enough information to efficiently write about it.
-
-9. Asking or answering a smart-question
-I did not utilize ChatGPT or any other AI for asking or answering any smart-questions because I found that the human touch in answering or asking smart-questions were more genuine and had a greater chance at asking or answering the question properly.
-
-10. Coding example e.g. "give an example of using underscore.pluck"
-When asked to provide an example of code, ChatGPT explained the definition and overall function of the line of code in question and provided an example or sometimes two in the application of said code. An example of this would be asking “give an example of using the underscore.pluck function”, and the generative pre-trained transformer would reply with its definition and an example containing plucking a name from a list of names.
-
-11. Explaining code
-ChatGPT did a great job of explaining the textbook definitions and functions of different syntax and structures in programming, as well as the many different languages and their specifications regarding their strong and weak suits for different applications.
-
-12. Writing code
-Similar to asking for a coding example and explanation of the code in my experience, ChatGPT will provide you with syntax that is almost always correct as well as the overall function definition and an example application. I found its replies very well rounded and very informative.
-
-13. Documenting code
-When asked to write a program from the bottom up, I found that ChatGPT also provides documentation for each function within the code making it easier to understand what each part of the program is responsible for, making comprehension easier.
-
-14. Quality assurance
-In all honesty, the use of AI for quality assurance is nowhere as great as human quality assurance. I find this because I personally don’t think AI has the capability to make deeper connections seen in complex programs other than simple definitions and similarity in concepts.
-
-15. Other uses in ICS 314 not listed above
-On one occasion where I was curious as to just how human-like its responses were, I asked “how was your day today?” it took a moment to think and respond in an animate but also with a someone conscious-like response. It had explained that it does not experience days like I did and persisted to ask if I had any questions or topics that I’d like to discuss. I found this response very interesting as if it knew or was aware of what it is and its purpose.
 
 ### III. Impact on Learning and Understanding:
 Although not entirely perfect yet, I firmly believe that AI truly has massive potential to enhance the education process and even the workforce on an exponential scale overtime as the larger language models are made available. The capabilities of AI now such as educating a user on certain topics to a very detailed extent are unlike any technology we’ve seen before and it will only continue to grow.
