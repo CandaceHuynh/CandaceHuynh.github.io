@@ -4,7 +4,7 @@ type: essay
 title: "Why on Earth are there so many UI Frameworks?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
-published: true
+published: false
 labels:
   - Software Development
   - UI Frameworks
