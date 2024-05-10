@@ -25,6 +25,8 @@ Throughout the many required experiences endured for ICS 314, I did not use arti
 
 
 2. In-class Practice WODs
+
+
 Although in-class practice WODs do not hold much pressure compared to actual WODs, I did find the use of ChatGPT very helpful in the moments I was stuck on syntax error and program structure complications. The lack of pressure to succeed in these practice WODs allowed me to truly focus on understanding what was really going on and really allocated time to explore how to utilize AI to my full advantage when developing a program.
 
 
