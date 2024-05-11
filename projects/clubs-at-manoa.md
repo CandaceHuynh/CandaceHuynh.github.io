@@ -6,14 +6,12 @@ title: "Clubs At Manoa"
 date: 2024
 published: true
 labels:
-  - Web Applications
-  - Project Development
+  - BootStrap
   - Meteor
   - HTML
-  - Software Engineering
-summary: "Final project for ICS 314, a "club hub" for all the registered clubs at the University of Hawaii at Manoa."
+  - JavaScript
+summary: "Final project for ICS 314, a \"club hub\" for all the registered clubs at the University of Hawaii at Manoa."
 ---
-
 
 <div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
