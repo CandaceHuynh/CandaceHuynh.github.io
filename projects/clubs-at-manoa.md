@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/logo.png
+image: img/logo.png width="200px"
 title: "Clubs At Manoa"
 date: 2024
 published: true
@@ -18,3 +18,5 @@ summary: "Final project for ICS 314, a \"club hub\" for all the registered clubs
 </div>
 
 For the final project portion of our software engineering course ICS 314, my group and I choose to create a web application that would generate, house, and expand the information regarding all of the registered clubs at the University of Hawaii at Manoa.  
+
+
