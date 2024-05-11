@@ -9,7 +9,7 @@ labels:
   - Internship
   - Mentorship
   - Social Interaction
-summary: "Served as a /"Big sister"/ figure to upcoming freshman."
+summary: "Served as a \"Big sister"\ figure to upcoming freshman."
 ---
 
 <div class="text-center p-4">
