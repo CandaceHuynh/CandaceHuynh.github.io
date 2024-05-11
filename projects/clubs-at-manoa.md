@@ -8,6 +8,8 @@ published: true
 labels:
   - Web Applications
   - Project Development
+  - Meteor
+  - HTML
   - Software Engineering
 summary: "Final project for ICS 314, a "club hub" for all the registered clubs at the University of Hawaii at Manoa."
 ---
