@@ -11,7 +11,7 @@ labels:
   - Web Development
 ---
 
-<img src="../img/logo.jpg" width="300"> 
+<img src="../img/logo.png" width="300"> 
 
 ### How did you make your effort estimates?
 
@@ -19,7 +19,7 @@ I kept track of all my coding and non-coding efforts through the world clock app
 
 ### Even though your estimates were always off, sometimes way off, was there any benefit from making effort estimates for the issues in advance? If so, what benefits? If not, why not?
 
-Although there were some estimates that were off, I think there was actually some benefit from making effort estimates for the issues in advance because it helps us gauge how much time we were suppose to allocate to work on this particular part of the project. If our \"guest-timates\"  
+Although there were some estimates that were off, I think there was actually some benefit from making effort estimates for the issues in advance because it helps us gauge how much time we were suppose to allocate to work on this particular part of the project. If our \"guest-timates\" were off  
 
 
 
