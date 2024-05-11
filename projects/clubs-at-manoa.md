@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/logo.png
+image: img/logo.png
 title: "Clubs At Manoa"
 date: 2024
 published: true
