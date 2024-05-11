@@ -2,16 +2,16 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Clubs At Manoa"
+title: "Derivative Calculator"
 date: 2024
 published: true
 labels:
-  - BootStrap
-  - Meteor
-  - HTML
-  - JavaScript
-summary: "Final project for ICS 314, a "club hub" for all the registered clubs at the University of Hawaii at Manoa."
+  - Robotics
+  - Arduino
+  - Java
+summary: "Passon project, derivative calculator made from Java."
 ---
+
 
 <div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
