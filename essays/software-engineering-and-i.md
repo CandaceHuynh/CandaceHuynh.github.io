@@ -10,7 +10,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img src="../img/ChatGPT.jpg" width="300"> 
+<img src="../img/pros-and-cons-of-open-source-software-vs-proprietary-software.jpg" width="300"> 
 
 ### I. Introduction
 
