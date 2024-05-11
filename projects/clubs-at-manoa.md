@@ -13,8 +13,6 @@ labels:
 summary: "Final project for ICS 314, a "club hub" for all the registered clubs at the University of Hawaii at Manoa."
 ---
 
-
-
 <div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
