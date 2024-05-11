@@ -1,17 +1,19 @@
 ---
 layout: project
 type: project
-image: img/logo.png
+image: img/micromouse/micromouse-square.jpg
 title: "Clubs At Manoa"
 date: 2024
 published: true
 labels:
-  - Bootstrap
+  - BootStrap
   - Meteor
   - HTML
   - JavaScript
 summary: "Final project for ICS 314, a "club hub" for all the registered clubs at the University of Hawaii at Manoa."
 ---
+
+
 
 <div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
